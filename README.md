@@ -12,3 +12,4 @@ This plugin requires the following minimum version of Binary Ninja:
 
 ## Demo
 
+![](https://github.com/sl4v/SimpleSlicer/blob/master/demo.gif)
